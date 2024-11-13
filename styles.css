@@ -210,7 +210,7 @@ select:focus {
 
 .input-group {
     display: flex;
-    flex-direction: column; /* Текст над полем */
+    flex-direction: column; 
     width: 100%; 
 }
 
@@ -228,7 +228,7 @@ select:focus {
     position: absolute;
     right: 10px; 
     top: 50%;
-    transform: translateY(-100%); /* Центріровать по вертикали */
+    transform: translateY(-100%); 
     width: 20px;
     height: 20px;
 }
